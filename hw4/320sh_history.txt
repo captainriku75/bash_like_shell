@@ -1,0 +1,8 @@
+ls
+echo hello
+lseek
+ls
+lseek
+echo hello
+exit
+exit
